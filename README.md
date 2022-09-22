@@ -258,7 +258,7 @@ Function Prototypes
 
 ## Authors
 <details>
-    <summary>Suara Ayomide</summary>
+    <summary>Tosin Owoeye</summary>
     <ul>
     <li><a href="https://www.github.com/TFrankie55">Github</a></li>
     <li><a href="https://www.twitter.com/TosinOwoeye5">Twitter</a></li>
